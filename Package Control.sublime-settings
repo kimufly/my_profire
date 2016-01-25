@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Colorcoder",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"Git-StatusBar",
+		"GitGutter-Edge",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Tag",
+		"Terminal",
+		"Theme - itg.flat"
+	]
+}
